@@ -1,6 +1,6 @@
 # KAOSS TAKT
 ↓クリックしたらYoutubeのリンクに飛びます
-[![KAOSS TAKT](プレゼンテーション1.jpg)](https://www.youtube.com/watch?v=1vL223QKuT0&feature=youtu.be)
+[![KAOSS TAKT](プレゼンテーション1.jpg)](https://www.youtube.com/watch?v=LMbpiY0tBYw&feature=youtu.be)
 
 
 ## 製品概要
