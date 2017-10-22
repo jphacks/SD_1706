@@ -83,9 +83,9 @@ DJがベースの効いた音楽をフロアにドロップする．　　
 * 音人 https://on-jin.com/sound/ta.php?kate=%E6%A5%BD%E5%99%A8%E7%B3%BB
 * くらげ工匠 http://www.kurage-kosho.info/others.html
 * ニコニコモンズ　http://commons.nicovideo.jp/material/agreement
-* うっちーゼロ https://www.youtube.com/watch?v=Vs0kZAGEMlI
 * d-elf.com https://www.d-elf.com/free-bgm
 * いいぞ！もっとやれ！ノリノリなハッピーハードコア - ys169　https://www.youtube.com/watch?v=5PY8qHqUb8E
+* 甘茶の音楽工房　http://amachamusic.chagasi.com/image_oshare.html 
 
 
 ### 研究内容・事前開発プロダクト（任意）
