@@ -1,5 +1,5 @@
 # KAOSS TAKT
-
+↓クリックしたらYoutubeのリンクに飛びます
 [![KAOSS TAKT](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=1vL223QKuT0&feature=youtu.be)
 
 
