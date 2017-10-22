@@ -1,4 +1,4 @@
-# the DJ bar
+# KAOSS TAKT
 
 [![KAOSS TAKT](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)
 
