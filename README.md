@@ -79,7 +79,7 @@ DJがベースの効いた音楽をフロアにドロップする．　　
 #### デバイス
 * Android
 
-#### SE
+### SE
 * 音人 https://on-jin.com/sound/ta.php?kate=%E6%A5%BD%E5%99%A8%E7%B3%BB
 * くらげ工匠 http://www.kurage-kosho.info/others.html
 * ニコニコモンズ　http://commons.nicovideo.jp/material/agreement
